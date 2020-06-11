@@ -30,4 +30,3 @@ pip3 config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 解决方案
 ```pip3 install requests[security]```
-# python3
